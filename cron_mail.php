@@ -157,15 +157,15 @@ function sendMail()
         $mail->SMTPAuth = true;
         $mail->SMTPSecure = "ssl";
         $mail->Port = 465;
-        $mail->Username = "ogur4ik2008";
-        $mail->Password = "0630604968";
+        $mail->Username = "yourname";
+        $mail->Password = "yourpass";
         $mail->IsHTML(true);
-        $mail->setFrom("ogur4ik2008@yandex.ru");
+        $mail->setFrom("youremail@gmail.com");
 
         $mail->Subject = "Завершение срока публикации";
 
         foreach ($mail_array as $key=>$value){
-            $mail->addAddress("litvint15@gmail.com");
+            $mail->addAddress($value['eamil']);
 
             $mail->Body = "Завершение срока публикации  №{$value['id']}, <a href='{$value['link']}'>" . $value['title'] . "</a> истекает через "
                 . $value['left_days'];

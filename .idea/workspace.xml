@@ -25,17 +25,17 @@
       <file leaf-file-name="cron_mail.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cron_mail.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="142" column="1" selection-start-line="142" selection-start-column="1" selection-end-line="142" selection-end-column="1" />
+            <state relative-caret-position="918">
+              <caret line="160" column="35" selection-start-line="160" selection-start-column="35" selection-end-line="160" selection-end-column="35" />
               <folding>
-                <marker date="1466650813298" expanded="true" signature="695:968" placeholder="SELECT TIMES... users" />
-                <marker date="1466650813298" expanded="true" signature="695:988" placeholder="SELECT TIMES... users" />
-                <marker date="1466650813298" expanded="true" signature="695:1485" placeholder="SELECT TIMES... users" />
-                <marker date="1466650813298" expanded="true" signature="2156:2219" placeholder="UPDATE items... " />
-                <marker date="1466650813298" expanded="true" signature="2156:2227" placeholder="UPDATE items... " />
-                <marker date="1466650813298" expanded="true" signature="2365:2402" placeholder="SELECT last_... items" />
-                <marker date="1466650813298" expanded="true" signature="2745:2783" placeholder="SELECT id FR... items" />
-                <marker date="1466650813298" expanded="true" signature="3256:3319" placeholder="UPDATE items... " />
+                <marker date="1466653036308" expanded="true" signature="695:968" placeholder="SELECT TIMES... users" />
+                <marker date="1466653036308" expanded="true" signature="695:988" placeholder="SELECT TIMES... users" />
+                <marker date="1466653036308" expanded="true" signature="695:1485" placeholder="SELECT TIMES... users" />
+                <marker date="1466653036308" expanded="true" signature="2156:2219" placeholder="UPDATE items... " />
+                <marker date="1466653036308" expanded="true" signature="2156:2227" placeholder="UPDATE items... " />
+                <marker date="1466653036308" expanded="true" signature="2365:2402" placeholder="SELECT last_... items" />
+                <marker date="1466653036308" expanded="true" signature="2745:2783" placeholder="SELECT id FR... items" />
+                <marker date="1466653036308" expanded="true" signature="3256:3319" placeholder="UPDATE items... " />
               </folding>
             </state>
           </provider>
@@ -175,15 +175,15 @@
       <updated>1466582220743</updated>
       <workItem from="1466582222728" duration="152000" />
       <workItem from="1466582417626" duration="23975000" />
-      <workItem from="1466627771659" duration="14787000" />
+      <workItem from="1466627771659" duration="15422000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38914000" />
+    <option name="totallyTimeSpent" value="39549000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="1" />
+    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26176023" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -221,14 +221,14 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1466650813298" expanded="true" signature="695:968" placeholder="SELECT TIMES... users" />
-            <marker date="1466650813298" expanded="true" signature="695:988" placeholder="SELECT TIMES... users" />
-            <marker date="1466650813298" expanded="true" signature="695:1485" placeholder="SELECT TIMES... users" />
-            <marker date="1466650813298" expanded="true" signature="2156:2219" placeholder="UPDATE items... " />
-            <marker date="1466650813298" expanded="true" signature="2156:2227" placeholder="UPDATE items... " />
-            <marker date="1466650813298" expanded="true" signature="2365:2402" placeholder="SELECT last_... items" />
-            <marker date="1466650813298" expanded="true" signature="2745:2783" placeholder="SELECT id FR... items" />
-            <marker date="1466650813298" expanded="true" signature="3256:3319" placeholder="UPDATE items... " />
+            <marker date="1466653036308" expanded="true" signature="695:968" placeholder="SELECT TIMES... users" />
+            <marker date="1466653036308" expanded="true" signature="695:988" placeholder="SELECT TIMES... users" />
+            <marker date="1466653036308" expanded="true" signature="695:1485" placeholder="SELECT TIMES... users" />
+            <marker date="1466653036308" expanded="true" signature="2156:2219" placeholder="UPDATE items... " />
+            <marker date="1466653036308" expanded="true" signature="2156:2227" placeholder="UPDATE items... " />
+            <marker date="1466653036308" expanded="true" signature="2365:2402" placeholder="SELECT last_... items" />
+            <marker date="1466653036308" expanded="true" signature="2745:2783" placeholder="SELECT id FR... items" />
+            <marker date="1466653036308" expanded="true" signature="3256:3319" placeholder="UPDATE items... " />
           </folding>
         </state>
       </provider>
@@ -295,17 +295,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cron_mail.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="142" column="1" selection-start-line="142" selection-start-column="1" selection-end-line="142" selection-end-column="1" />
+        <state relative-caret-position="918">
+          <caret line="160" column="35" selection-start-line="160" selection-start-column="35" selection-end-line="160" selection-end-column="35" />
           <folding>
-            <marker date="1466650813298" expanded="true" signature="695:968" placeholder="SELECT TIMES... users" />
-            <marker date="1466650813298" expanded="true" signature="695:988" placeholder="SELECT TIMES... users" />
-            <marker date="1466650813298" expanded="true" signature="695:1485" placeholder="SELECT TIMES... users" />
-            <marker date="1466650813298" expanded="true" signature="2156:2219" placeholder="UPDATE items... " />
-            <marker date="1466650813298" expanded="true" signature="2156:2227" placeholder="UPDATE items... " />
-            <marker date="1466650813298" expanded="true" signature="2365:2402" placeholder="SELECT last_... items" />
-            <marker date="1466650813298" expanded="true" signature="2745:2783" placeholder="SELECT id FR... items" />
-            <marker date="1466650813298" expanded="true" signature="3256:3319" placeholder="UPDATE items... " />
+            <marker date="1466653036308" expanded="true" signature="695:968" placeholder="SELECT TIMES... users" />
+            <marker date="1466653036308" expanded="true" signature="695:988" placeholder="SELECT TIMES... users" />
+            <marker date="1466653036308" expanded="true" signature="695:1485" placeholder="SELECT TIMES... users" />
+            <marker date="1466653036308" expanded="true" signature="2156:2219" placeholder="UPDATE items... " />
+            <marker date="1466653036308" expanded="true" signature="2156:2227" placeholder="UPDATE items... " />
+            <marker date="1466653036308" expanded="true" signature="2365:2402" placeholder="SELECT last_... items" />
+            <marker date="1466653036308" expanded="true" signature="2745:2783" placeholder="SELECT id FR... items" />
+            <marker date="1466653036308" expanded="true" signature="3256:3319" placeholder="UPDATE items... " />
           </folding>
         </state>
       </provider>
