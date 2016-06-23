@@ -1,0 +1,1 @@
+*/15 * * * * C:/wamp/bin/php/php5.5.12/php C:/wamp/www/htdocs/cron_mail.php arg1
